@@ -42,7 +42,7 @@ $string['solo:attemptedit'] = 'Edit attempts';
 $string['solo:manageattempts'] = 'Can manage Poodll Solo attempts';
 $string['solo:manage'] = 'Can manage Poodll Solo instances';
 $string['solo:submit'] = 'Can submit Poodll Solo attempts';
-$string['solo:view'] = 'View Solo grades';
+$string['solo:grades'] = 'View Solo grades';
 $string['privacy:metadata'] = 'The Poodll Poodll Solo plugin does store personal data.';
 $string['privacy:metadata:solo'] = 'The Poodll Poodll Solo plugin does store personal data.';
 $string['privacy:metadata:attemptstable'] = 'The Poodll Poodll Solo attempts table.';
@@ -569,3 +569,7 @@ $string['enablesetuptab']="Enable setup tab";
 $string['enablesetuptab_details']="Show a tab containing the activity instance settings to admins. Not super useful in most cases.";
 $string['setup']="Setup";
 
+$string['nosetup']="Activity is Not Ready";
+$string['addsetup']="Setup Activity";
+$string['waitforsetup']="There is no topic set yet for this activity. You will not be able to do the activity until your teacher adds one";
+$string['letsaddsetup']="There is no topic set yet for this activity. Lets add one.";
